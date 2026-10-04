@@ -20,7 +20,8 @@ const menus = [
       { name: 'Category', path: '/browse/category' }
     ]
   },
-  { name: 'Contact', path: '/contact' }
+  { name: 'Contact', path: '/contact' },
+  { name: 'Organizer Dashboard', path: '/dashboard' }
 ]
 
 const handleScroll = () => {
